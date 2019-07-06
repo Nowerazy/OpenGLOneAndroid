@@ -1,2 +1,2 @@
 # OpenGLOneAndroid
-The fisrt opengl app on Android
+The first opengl app on Android
